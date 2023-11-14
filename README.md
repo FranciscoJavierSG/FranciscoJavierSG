@@ -1,7 +1,10 @@
 ## Hola! Soy Francisco Salazar.
 Soy un ingeniero civil informático con una gran capacidad de adaptación y de toma de decisiones.
+
 Poseo un nivel de inglés avanzado, certificado a nivel internacional (First Certificate in English).
-Ayudante y tutor de varias asignaturas universitarias, entre ellas Taller de programación 1, Estructuras de datos y Lógica y estructuras discretas.
+
+En mi época univeristaria, fui ayudante y tutor de varias asignaturas universitarias, entre ellas Taller de programación 1, Estructuras de datos y Lógica y estructuras discretas.
+
 Me interesa y tengo habilidades en diversas áreas de la informática, tales como la Inteligencia artificial, el Análisis de datos, el Internet de las Cosas, la Arquitectura de software y más.
 
 ### Contacto:
