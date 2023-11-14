@@ -8,6 +8,7 @@ En mi época univeristaria, fui ayudante y tutor de varias asignaturas universit
 Me interesa y tengo habilidades en diversas áreas de la informática, tales como la Inteligencia artificial, el Análisis de datos, el Internet de las Cosas, la Arquitectura de software y más.
 
 
+
 ### Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1575F9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gaticavm9/)
 
