@@ -10,6 +10,7 @@ Me interesa y tengo habilidades en diversas áreas de la informática, tales com
 ### Habilidades:
 [![MySQL](https://img.shields.io/badge/MySQL-E87812?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
+[![BigQuery](https://img.shields.io/badge/BigQuery-4479A1?style=for-the-badge&logo=bigquery&logoColor=white&labelColor=101010)]()
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
